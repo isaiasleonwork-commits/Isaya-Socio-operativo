@@ -1,0 +1,6 @@
+{
+  "name": "Isaya Sushi",
+  "description": "App oficial de Administración y Cocina (Partner) para Isaya Sushi. Gestión de pedidos en tiempo real con Firebase, control de comandas, menú, precios y alertas sonoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
